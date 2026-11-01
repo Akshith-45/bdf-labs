@@ -2,7 +2,7 @@
 
 **Akshith Garipally** · Registration No: 252U1R6075 · Section 2B
 
-**Live link:** Not deployed yet
+**Live link:** https://bdf-labs-s5zk.onrender.com/
 
 ## About
 
