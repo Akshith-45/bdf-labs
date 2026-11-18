@@ -1,0 +1,4 @@
+node_modules/
+userDatabase.db
+*.db
+.env
